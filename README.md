@@ -1,1 +1,2 @@
-# demo-project
+
+Projet démonstration du Framework ReactJS
